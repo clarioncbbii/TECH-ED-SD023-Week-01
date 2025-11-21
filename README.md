@@ -2,7 +2,7 @@
 
 Week 1 assignment - Company splash page
 
-## TIPS
+# TIPS
 
 Use the full relative path to link your files:
 
@@ -12,16 +12,16 @@ html
 <link rel="stylesheet" href="../Week-01-assignment/style.css" >
 ./ = the current location folder
 ../ = the parent folder
-
 ```
 
+```
 bash
 
 ./images/imagename
 images/test.jpg
-
 ```
 
+```
 git (Bertie's comment)
 
 Git is a file managing system and github is a cloudstorage of git repositories (folders).
@@ -33,7 +33,7 @@ There are a lot more git commands and lots of different ways of using them but t
 
 All of these git commands are done on the command line:
 -> git add . //adds the folder to GitHub
--> git commit -m "XXXXX" //the message accompanying the commit
+-> git commit -m "XXXXX" //the message accompanying the commit (label your message w/ 'chore', 'feat', 'bug fix', etc.)
 -> git push // pushes the changes to the cloud
 
 ```
