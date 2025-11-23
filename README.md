@@ -43,7 +43,7 @@ All of these git commands are done on the command line:
 REQUIRED
 
 - What requirements did you achieve?
-  I managed to address all the user stories I believe. I think I've built a cohesive website, with clear sections that a screenreader could interact with. The layout and navigation is responsive and I met all the visually cues outlined in the brief. The required tools e.g. flexbox, absolute positioning, etc. were employed to achieve the result.
+  I managed to address all the user stories I believe. I think I've built a cohesive website, with clear sections that a screenreader could interact with. The layout and navigation is responsive and I met all the visual cues outlined in the brief. The required tools e.g. flexbox, absolute positioning, etc. were employed to achieve the result.
 
 - Were there any requirements or goals that you were unable to achieve?
   In the stretch goals I did not manage to get the audio to play, though I did get the audiplayer implemented and positioned where I wanted it.
@@ -75,7 +75,7 @@ I outlined my HTML structure with pencil and paper before coding and that helped
 I had to take some time to look into the difference between a section and a div and though I think I get it ... I am not 1000% sure lol.
 Lastly, I coded the whole thing start to finish in one sitting (because I get obsessed with things sometimes) - I could have probably done with more breaks in between for health and mental clarity.
 
-- THANK YOU -
+THANK YOU :)
 
 # REFERENCES/LINKS
 
