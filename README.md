@@ -49,6 +49,7 @@ REQUIRED
   In the stretch goals I did not manage to get the audio to play, though I did get the audiplayer implemented and positioned where I wanted it.
   I also did not manage to get my social media links to spread out on the left side of the footer no matter how much I tweaked it.
   However, I am quite chuffed that I got a back to top button in; smooth scrolling; hover effect; footer with icons and background music in a way.
+  My back to top button also seems to not be working, despite anchoring it to the top of the page; perhaps where I inserted the code is wrong... still unsure!
   I really tried to challenge myself for this first one.
 
 - If so, what was it that you found difficult about these tasks?
@@ -72,7 +73,7 @@ Gosh ... a lot! Mostly to do with syntax - in the end I resolved them all by fol
 What went really well and what could have gone better?
 I outlined my HTML structure with pencil and paper before coding and that helped me get the general gist of the order down.
 I had to take some time to look into the difference between a section and a div and though I think I get it ... I am not 1000% sure lol.
-I coded the whole thin start to finish in one sitting (because I get obsessed with things sometimes) - I could have probably done with more breaks in between for health and mental clarity.
+Lastly, I coded the whole thing start to finish in one sitting (because I get obsessed with things sometimes) - I could have probably done with more breaks in between for health and mental clarity.
 
 - THANK YOU -
 
