@@ -37,3 +37,24 @@ All of these git commands are done on the command line:
 -> git push // pushes the changes to the cloud
 
 ```
+
+# ASSIGNMENT REFLECTION
+
+Required
+What requirements did you achieve?
+Were there any requirements or goals that you were unable to achieve?
+If so, what was it that you found difficult about these tasks?
+
+Optional
+Feel free to add any other reflections you would like to share about your submission, for example:
+
+Requesting feedback about a specific part of your submission.
+What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
+What errors or bugs did you encounter while completing your assignment? How did you solve them?
+What went really well and what could have gone better?
+
+# REFERENCES/LINKS
+
+- Body butter image: https://mytinylagunakitchen.com/wp-content/uploads/2024/05/Calendula-Tallow-Whipped-Body-Butter-14-THIS.jpg
+- Body oil image: https://i.pinimg.com/1200x/d2/81/2e/d2812eb2e9251cc95a1247ec9b6181d6.jpg
+- Candle image: https://www.ecoya.co.nz/cdn/shop/files/ECOYA_Lifestyle_APR25_Madison_2048x2560-1.jpg?v=1758516126&width=2048

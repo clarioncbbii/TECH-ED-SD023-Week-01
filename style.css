@@ -3,3 +3,128 @@
   margin: 0px;
   box-sizing: border-box;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+#PAGE-TITLE {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 5.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(215, 147, 255, 0.733);
+  padding: 25px;
+  border: solid 1px black;
+}
+
+marquee {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5rem;
+  padding: 15px;
+}
+
+nav {
+  font-size: 1.25rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: rgba(215, 147, 255, 0.733);
+  padding: 25px;
+  border: solid 1px black;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.267);
+  border: solid 1px white;
+  position: absolute;
+  width: auto;
+  height: fit-content;
+  padding: 10px;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 2rem;
+  font-weight: lighter;
+  text-transform: uppercase;
+  padding-bottom: 1rem;
+}
+
+#follow-me {
+  padding: 5px;
+  border: solid white 0.5px;
+  background-color: rgba(215, 147, 255, 0.856);
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+}
+
+#follow-me:hover {
+  padding: 5px;
+  border: solid white 0.5px;
+  background-color: rgb(162, 0, 255);
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}
+
+.section-1 {
+  height: 50rem;
+  background-image: url(./images/body-butter.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.section-2 {
+  height: 50rem;
+  background-image: url(./images/body-oil.jpg);
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.section-3 {
+  height: 50rem;
+  background-image: url(./images/candle.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  gap: 15x;
+  justify-content: space-evenly;
+  flex-flow: wrap;
+}
+
+#footer-div {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  flex-flow: wrap;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+audio {
+  position: fixed;
+  bottom: 40px;
+}
